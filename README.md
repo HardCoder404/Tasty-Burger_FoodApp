@@ -1,3 +1,12 @@
+# DEMO 
+![Screenshot (142)](https://github.com/HardCoder404/Tasty-Burger_FoodApp/assets/127084297/46be9a82-f057-4ab0-bf7f-a33f8da4f19e)
+![Screenshot (143)](https://github.com/HardCoder404/Tasty-Burger_FoodApp/assets/127084297/adc5d166-ed7e-4f21-81d7-401ed0da0a29)
+![Screenshot (144)](https://github.com/HardCoder404/Tasty-Burger_FoodApp/assets/127084297/4b4cfdde-3281-4483-9b49-b4acd3c544e2)
+![Screenshot (145)](https://github.com/HardCoder404/Tasty-Burger_FoodApp/assets/127084297/f622780c-640a-4592-b1ff-2a3fda412b44)
+![Screenshot (146)](https://github.com/HardCoder404/Tasty-Burger_FoodApp/assets/127084297/eee645f5-644b-4877-aff2-18caacef7921)
+![Screenshot (147)](https://github.com/HardCoder404/Tasty-Burger_FoodApp/assets/127084297/4cf720a9-d83a-43ea-b688-75c800fecb2d)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
